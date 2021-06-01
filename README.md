@@ -1,2 +1,2 @@
 # Banking-System
-Banking system interface with list as it database
+Banking system interface with list as it's database
